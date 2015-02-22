@@ -54,3 +54,27 @@ The original data was taken and stripped of all variables other than the mean an
 Then, the subject and activity information is added to the data and the mean per subject and activity is calculated.
 This makes the tidy data set, 180 observations by 68 variables.
 
+The variables are:
+"tBodyAccmeanX"            "tBodyAccmeanY"            "tBodyAccmeanZ"           
+"tGravityAccmeanX"         "tGravityAccmeanY"         "tGravityAccmeanZ"        
+"tBodyAccJerkmeanX"        "tBodyAccJerkmeanY"        "tBodyAccJerkmeanZ"       
+"tBodyGyromeanX"           "tBodyGyromeanY"           "tBodyGyromeanZ"          
+"tBodyGyroJerkmeanX"       "tBodyGyroJerkmeanY"       "tBodyGyroJerkmeanZ"      
+"tBodyAccMagmean"          "tGravityAccMagmean"       "tBodyAccJerkMagmean"     
+"tBodyGyroMagmean"         "tBodyGyroJerkMagmean"     "fBodyAccmeanX"           
+"fBodyAccmeanY"            "fBodyAccmeanZ"            "fBodyAccJerkmeanX"       
+"fBodyAccJerkmeanY"        "fBodyAccJerkmeanZ"        "fBodyGyromeanX"          
+"fBodyGyromeanY"           "fBodyGyromeanZ"           "fBodyAccMagmean"         
+"fBodyBodyAccJerkMagmean"  "fBodyBodyGyroMagmean"     "fBodyBodyGyroJerkMagmean"
+"tBodyAccstdX"             "tBodyAccstdY"             "tBodyAccstdZ"            
+"tGravityAccstdX"          "tGravityAccstdY"          "tGravityAccstdZ"         
+"tBodyAccJerkstdX"         "tBodyAccJerkstdY"         "tBodyAccJerkstdZ"        
+"tBodyGyrostdX"            "tBodyGyrostdY"            "tBodyGyrostdZ"           
+"tBodyGyroJerkstdX"        "tBodyGyroJerkstdY"        "tBodyGyroJerkstdZ"       
+"tBodyAccMagstd"           "tGravityAccMagstd"        "tBodyAccJerkMagstd"      
+"tBodyGyroMagstd"          "tBodyGyroJerkMagstd"      "fBodyAccstdX"            
+"fBodyAccstdY"             "fBodyAccstdZ"             "fBodyAccJerkstdX"        
+"fBodyAccJerkstdY"         "fBodyAccJerkstdZ"         "fBodyGyrostdX"           
+"fBodyGyrostdY"            "fBodyGyrostdZ"            "fBodyAccMagstd"          
+"fBodyBodyAccJerkMagstd"   "fBodyBodyGyroMagstd"      "fBodyBodyGyroJerkMagstd" 
+
